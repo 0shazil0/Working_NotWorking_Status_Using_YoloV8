@@ -8,7 +8,7 @@ This project aims to detect the working and non-working status of employees usin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/SAIN-CUBE/employee-status-detection.git
+    git clone https://github.com/0shazil0/employee-status-detection.git
     cd employee-status-detection
     ```
 
@@ -52,4 +52,4 @@ python detect.py --source 0 --weights path/to/your/yolov8/weights --conf 0.80
 
 ## Results
 
-<video controls src="[Test_Video-1.mp4](https://github.com/SAIN-CUBE/detecting-working-status/blob/main/Test_Video.mp4)" title="Title"></video>
+<video controls src="[Test_Video-1.mp4](https://github.com/0shazil0/detecting-working-status/blob/main/Test_Video.mp4)" title="Title"></video>
